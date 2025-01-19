@@ -1,0 +1,15 @@
+meta {
+  name: get by id
+  type: http
+  seq: 1
+}
+
+get {
+  url: {{URL}}/branches/:branchId
+  body: none
+  auth: none
+}
+
+params:path {
+  branchId: 1
+}

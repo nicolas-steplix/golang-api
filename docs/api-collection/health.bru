@@ -1,0 +1,15 @@
+meta {
+  name: health
+  type: http
+  seq: 1
+}
+
+get {
+  url: {{URL}}/health?include=database
+  body: none
+  auth: none
+}
+
+params:query {
+  include: database
+}

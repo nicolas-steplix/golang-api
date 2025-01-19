@@ -1,0 +1,15 @@
+meta {
+  name: get by id
+  type: http
+  seq: 1
+}
+
+get {
+  url: {{URL}}/roles/:roleId
+  body: none
+  auth: none
+}
+
+params:path {
+  roleId: 1
+}
