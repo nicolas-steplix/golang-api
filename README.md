@@ -69,7 +69,7 @@ go run .
 
 
 ## Documentación de la API
-Pueden encontrar los endpoint para hacer pruebas dentro de carpeta `docs/api-collection`. La misma puede ser importada en (Bruno)[https://www.usebruno.com/].
+Pueden encontrar los endpoint para hacer pruebas dentro de carpeta `docs/api-collection`. La misma puede ser importada en [Bruno](https://www.usebruno.com/).
 
 <p align="right">(<a href="#top">ir arriba</a>)</p>
 <hr/>
