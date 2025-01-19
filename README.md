@@ -10,6 +10,7 @@ Proyecto de ejemplo con GoLang.
 * [Configuraciones][configuraciones]
 * [Base de datos][base_de_datos]
 * [¿Cómo se corre?][como_se_corre]
+* [Tests][tests]
 
 
 ## Descargar
@@ -68,7 +69,7 @@ go run .
 <hr/>
 
 
-## Documentación de la API
+## Tests
 Pueden encontrar los endpoint para hacer pruebas dentro de carpeta `docs/api-collection`. La misma puede ser importada en [Bruno](https://www.usebruno.com/).
 
 <p align="right">(<a href="#top">ir arriba</a>)</p>
@@ -80,3 +81,4 @@ Pueden encontrar los endpoint para hacer pruebas dentro de carpeta `docs/api-col
 [configuraciones]: #configuraciones
 [base_de_datos]: #base-de-datos
 [como_se_corre]: #cómo-se-corre
+[tests]: #tests
